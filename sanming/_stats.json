@@ -1,0 +1,17 @@
+{
+ "pages_done": 37175,
+ "pages_dead": 153,
+ "pages_error": 2,
+ "pages_pending": 0,
+ "disk_page_txt": 37137,
+ "missing": 0,
+ "dup_url_entries": 38,
+ "att_done": 7708,
+ "att_error": 149,
+ "att_pending": 0,
+ "att_filtered": 0,
+ "att_files_ok": 7708,
+ "att_missing": 0,
+ "outbound": 136,
+ "channels": 385
+}
